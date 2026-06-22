@@ -1,0 +1,36 @@
+.contenedor{
+	text-align: center;
+}
+
+.img{
+	width: 300px;
+	height: 300px;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+	display: inline-block;
+}
+.hipervinculo{
+	float: left;
+	font-size: large;
+}
+.video{
+	width: 500px;
+	height: 500px;
+	float:left;
+}
+p.im{
+	color: 5B6CBD;
+	font-family: cursive;
+	font-size: x-large;
+}
+p.hi{
+	color: purple;
+	font-family: cursive;
+	font-size: x-large;
+}
+p.vi{
+	color: E67CA8;
+	font-family: cursive;
+	font-size: x-large;
+}

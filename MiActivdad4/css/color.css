@@ -1,0 +1,29 @@
+ h1.titulo1{
+       color: #B7DBF7 ; 
+       text-align: center; 
+       dont-weight: 500; 
+       font-family: serif;
+       font-size: 40px; 
+}
+h2.titulo2{ 
+       color: #F0AFDA ; 
+       text-align: center; 
+       dont-weight: 500; 
+       font-family: cursive;
+       font-size: 40px; 
+}
+
+p.parrafo1{
+       color: #571842 ;
+       text-align: left;
+       font-weight: 600;
+       font-family: fantasy;
+       font-size: 40px;
+}
+p.parrafo2{
+       color: #DFA4FC ;
+       text-align: left
+       font-weight: 600;
+       font-family: fantasy;
+       font-size: 40px;
+}

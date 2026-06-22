@@ -1,0 +1,32 @@
+body{
+	background-color: #D133FF;
+	font-family: Arial;
+}
+{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: borde-box;
+	-moz-box-shadow: border-box;
+	box_sizing: border-box; 
+}
+.navegacion {
+	width: 1000px;
+	margin: 30px auto;
+	background: #fff;
+}
+.navegacion ul{
+	list-style: none; 
+}
+.menu > li{
+	position: reltive; 
+	display: inline-block;
+}
+.menu >li > a{
+	display: block;
+	padding: 15px 20px;
+	color: #353535;
+	font_family: "Opne sans";
+	text-decoration: none; 
+}
+.menu li a:hover{
+	color: #CE7D35
